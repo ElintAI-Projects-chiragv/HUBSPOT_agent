@@ -9,24 +9,14 @@ To automate the initial conversation with clients during onboarding and escalati
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Podcast-script-AI-Agent.git
+    git clone https://github.com/ElintAI-Projects-yourusername/HUBSPOT_agent.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Podcast-script-AI-Agent
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
+    cd HUBSPOT_agent
     ```
 
-## Usage
 
-1. Run the AI Agent:
-    ```bash
-    python main.py
-    ```
-2. Follow the prompts to specify the actor and recent film.
 
 ## Methodology
 
